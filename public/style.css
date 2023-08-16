@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    background-color: azure;
+  }
+
+/* home page */
+.homePageHeadline{
+  font-size: 6rem;
+  font-weight: 500;
+  font-family: 'Tektur', cursive;
+  color: rgb(41, 35, 35);
+}
+
+.login{}
+.homePageHeadline2{
+  font-size: 4rem;
+  font-weight: 500;
+  font-family: 'Tektur', cursive;
+  color: rgb(41, 35, 35);
+}
+.cd{
+  text-align: right;
+}
+.des{
+  text-align: center;
+  list-style: none;
+  font-family: 'Tektur', cursive;
+  margin: 1rem;
+  /* margin-top: 2rem; */
+}
+  
+.home_disc_p{
+  font-size: 2.8rem;
+  font-weight: 400;
+  font-family: 'Tektur', cursive;
+  color: rgba(41, 35, 35, 0.705);
+}
+.home_disc_p2{
+  font-size: 1.8rem;
+  font-weight: 300;
+  font-family: 'Tektur', cursive;
+  color: rgba(41, 35, 35, 0.705);
+}
+.home_start_div{
+  height: 10%;
+  width : 100%;
+  overflow: hidden;
+
+}
+.navBar{
+  border: solid black 0px;
+  border-bottom-width: 1px;
+}
+.home_img{
+}
+/* yoga  */
+.yoga_row_container{
+  margin-top: 2rem;
+  max-height: 340;
+}
+.yoga_icon img{
+  margin-left: 20%;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+
