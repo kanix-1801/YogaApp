@@ -74,12 +74,7 @@ function HomePage() {
               <div class="col-sm-12 col-md-12">
                 <h6>About Us</h6>
                 <p class="text-justify">
-                  FitHit<i> WANTS TO BE SIMPLE </i> is an initiative to help the
-                  upcoming programmers with the code. Scanfcode focuses on
-                  providing the most efficient code or snippets as the code
-                  wants to be simple. We will help programmers build up concepts
-                  in different programming languages that include HTML, CSS,
-                  Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.
+                  At FitHit, we believe in the transformative power of yoga – a practice that harmonizes the body, mind, and spirit. Our platform combines the ancient wisdom of yoga with cutting-edge technology to create a seamless experience that enriches your yoga journey.
                 </p>
               </div>
 
