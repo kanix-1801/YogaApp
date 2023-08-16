@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body {
     margin: 0;
@@ -7,7 +8,12 @@ body {
       sans-serif;
     background-color: azure;
   }
-
+.logo{
+    font-family: 'Indie Flower', cursive;
+    font-size:1.8rem;
+    font-weight: 500;
+}
+    
 /* home page */
 .homePageHeadline{
   font-size: 6rem;
