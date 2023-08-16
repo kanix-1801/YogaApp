@@ -1,0 +1,43 @@
+# System and IDE Files
+.DS_Store
+.idea/
+.vscode/
+
+# Compiled or Built Files
+*.class
+*.pyc
+dist/
+build/
+node_modules/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.swp
+
+# Configuration Files
+config.ini
+*.conf
+
+# Sensitive Information
+secret.key
+credentials.json
+
+# Dependency Lock Files
+yarn.lock
+package-lock.json
+Pipfile.lock
+
+# Compiled Output
+*.exe
+*.out
+
+# User-specific Files and Directories
+/user_data/
+/backup/
+
+# Generated Documentation
+/docs/
+
+# Ignore Specific Files in a Directory
+/path/to/dir
