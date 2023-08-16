@@ -12,7 +12,7 @@ function Header() {
       <div className="container-fluid navBar">
         <Navbar className="navbar" expand="lg" variant="light">
           <div className="container-fluid">
-            <Navbar.Brand href="#">FitHit</Navbar.Brand>
+            <Navbar.Brand className="logo" href="#">FitHit</Navbar.Brand>
 
             <Navbar.Toggle aria-controls="navbar-nav" />
             <Navbar.Collapse id="navbar-nav">
