@@ -3,7 +3,7 @@ import React from "react";
 function Body_component() {
   return (
     <>
-      <h1> body bana</h1>
+      <h1> </h1>
     </>
   );
 }
